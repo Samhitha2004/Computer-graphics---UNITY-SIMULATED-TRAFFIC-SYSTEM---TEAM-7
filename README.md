@@ -1,4 +1,4 @@
-# Computer-graphics---UNITY-SIMULATED-TRAFFIC-SYSTEM---TEAM-7
+# Computer-graphics---UNITY-SIMULATED-TRAFFIC-SYSTEM---TEAM-6
  The Traffic Simulation Project is a Unity-based autonomous system designed to replicate real-world traffic dynamics with a focus on safety, realism, and interactivity. The simulation features AI-powered vehicles that adhere to traffic signals, ensuring smooth navigation at intersections without collisions. Pedestrian interactions are seamlessly integrated, with designated walkways and strict adherence to traffic rules to maintain safety. Dynamic lighting, including streetlights, car headlights, and animated traffic signals, enhances the visual realism of the environment. Leveraging ML agents, the system manages multiple cars, enabling intelligent decision-making and collision avoidance. This project serves as a scalable solution for urban planning, education, and research, providing an engaging platform to explore traffic management challenges and solutions.
 ARCHITECTURAL DIAGRAM OF THE SYSTEM:
 ![image](https://github.com/user-attachments/assets/87489306-58dc-4820-a4d2-bb719eebbc63)
